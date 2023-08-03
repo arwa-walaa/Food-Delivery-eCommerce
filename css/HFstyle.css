@@ -1,0 +1,114 @@
+/* 
+    .activeForm {
+        cursor: pointer;
+    }
+
+    .formSignUp {
+        background-color: #daecf0;
+        width: 500px;
+        height: 1100px;
+        margin-left: 35%;
+        padding: 20px;
+        border-radius: 20px;
+        position: absolute;
+        box-shadow: 35px 35px 53px #245258, -28px -28px 40px #245258;
+        z-index: 1;
+        margin-top: 60px;
+    } */
+    /* .btn-danger {
+        height: 48px;
+        font-size: 18px
+        
+    } */
+
+    /* .btnSignUp {
+        margin-left: 30px;
+        width: 400px;
+        background-color: #2a6971;
+        border: none;
+    }
+
+    .btnSignUp:hover {
+        background-color: #3faab8;
+    }
+
+    .forget_pas:hover {
+        color: #2a6971;
+        text-decoration-line: none;
+    }
+
+    .forget_pas {
+        color: black;
+    } */
+
+    /* .modal-content {
+        position: absolute;
+        width: 0;
+        height: 0;
+        margin-top: 25%;
+    } */
+
+    /* .modal-backdrop {
+        position: static !important;
+    }
+    .buttonc{
+        display:inline ;
+        border: none;
+    }
+    #logButton:hover {
+        background-color: #3faab8;
+    }
+    .formSignIn {
+        padding: 20px;
+    }
+
+    .Formbtn {
+        margin-left: 80%;
+        background-color: #2a6971;
+        border: none;
+    }
+
+    .Formbtn:hover {
+        background-color: #3faab8;
+    }
+
+    .forget_pas:hover {
+        color: #2a6971;
+        text-decoration-line: none;
+    }
+
+    .forget_pas {
+        color: black;
+    } */
+
+
+    /* .jumbotron {
+        width: 100%;
+        background-image: url("https://fitfud.com/wp-content/uploads/2022/02/B2-1.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 450px;
+    } */
+
+    
+
+    /* .text_photo {
+        font-size: 20px;
+        color: #2a6971;
+    } */
+
+    footer i {
+        color: #daecf0;
+    }
+
+    .cus {
+        position: relative;
+        z-index: -1;
+    }
+
+    .cursor {
+        cursor: pointer;
+    }
+    #logButton{
+        background-color: #2a6971;
+    }

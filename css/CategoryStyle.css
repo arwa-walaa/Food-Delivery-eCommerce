@@ -1,0 +1,261 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+
+.navbar {
+    margin-bottom:0;
+    border-radius: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 50;
+}
+
+
+#categoryPage {
+    background-color: #edf6f8;
+    padding: 15px 30px 5px 30px;
+}
+
+.card {
+    border: none;
+    box-shadow: none;
+}
+
+
+#searchCard {
+    padding: 15px 10px 10px 15px;
+    margin-top: 50px;
+}
+
+#searchCard input[type=text] {
+    padding: 6px;
+    margin-right: 0px;
+    font-size: 17px;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.form-control {
+    border: 1px solid #2a6971;
+}
+
+.search-button {
+    float: right;
+    padding: 6px 10px;
+    margin-left: 2px;
+    background: #2a6971;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    z-index: -3;
+    height: 39px;
+}
+
+.search-button:hover {
+    background: #57b5c1;
+}
+
+.slidecontainer {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 8px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #2a6971;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #2a6971;
+    cursor: pointer;
+}
+.modal-backdrop {
+            
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1040;
+    width: 100vw;
+    height: 100vh;
+    
+}
+#category {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.categoryList li a {
+    border-bottom: 1px dashed #d9d9d9;
+}
+
+.categoryList li a {
+    color: #3b3b3b;
+}
+
+.categoryList li ul {
+    margin-left: 30px;
+}
+
+.categoryList li ul li a {
+    border-bottom: none;
+}
+
+.categoryList li ul li a:hover,
+.categoryList li ul li a:focus,
+.categoryList li ul li.active a,
+.categoryList li a:hover,
+.categoryList li a:focus,
+.categoryList li a.active {
+    background: none;
+    color: #fe4854;
+}
+
+
+.product-list {
+    margin-bottom: 25px;
+}
+
+#bestSellers {
+    border-bottom: 1.5px dashed #2a6971;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.card-img-top {
+    position: relative;
+    
+}
+
+.product-list img {
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+}
+
+.adtocart {
+    background: #fc5959;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    border: 3px solid #fff;
+    left: 40%;
+    bottom: -25px;
+    position: absolute;
+}
+
+.adtocart i {
+    color: #fff;
+    font-size: 25px;
+    line-height: 42px;
+}
+
+.prouctTitle {
+    color: #5A5A5A;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.prouctTitle:hover {
+    color: #2a6971;
+}
+
+.product-list .price {
+    color: #fc5959;
+    font-size: 15px;
+}
+
+.card-badge {
+    position: absolute;
+    top: -15px;
+    left: -10px;
+    padding: 10px;
+    color: white;
+    ;
+    transform: rotate(-20deg);
+    font-size: xx-large;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #fcd194;
+}
+
+.pro-page-list {
+    color: #2a6971;
+}
+
+.image {
+    position: absolute;
+    right: 12px;
+    top: 10px
+}
+
+.main-heading {
+    font-size: 40px;
+    color: #fc5959 !important
+}
+
+.ratings i {
+    color: orange
+}
+
+.user-ratings h6 {
+    margin-top: 2px
+}
+
+#productDetailsImage img {
+    width:100%
+}
+
+#productDetailsImage img {
+    border-radius: 6px;
+    max-width: 165px;
+}
+
+.btn-danger {
+    height: 48px;
+    font-size: 18px
+}
+
+.page-item.active .page-link {
+    background-color: #2a6971;
+    border-color: #2a6971;
+}
+
+.page-link {
+    color: #2a6971;
+}
+
+/* Add a gray background color and some padding to the footer */
+
+footer {
+    background-color: #f2f2f2;
+    width: auto;
+    padding: 50px;
+   
+}
+footer i,footer .text-center {
+    color: #daecf0;
+}

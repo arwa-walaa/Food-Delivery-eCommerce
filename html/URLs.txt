@@ -1,0 +1,7 @@
+https://developers.google.com/chart/interactive/docs
+https://developers.google.com/chart/interactive/docs/quick_start
+https://developers.google.com/chart/interactive/docs/gallery/piechart
+https://developers.google.com/chart/interactive/docs/gallery/piechart#donut
+https://developers.google.com/chart/interactive/docs/gallery/barchart
+https://developers.google.com/chart/interactive/docs/gallery/columnchart
+https://developers.google.com/chart/interactive/docs/gallery/table
